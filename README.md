@@ -24,6 +24,6 @@ Use this repository to store and share the executive-level career bio separately
 
 Copyright © Debadyuti Sil. All rights reserved.
 
-This repository and its contents, including the executive career bio, text, formatting, and presentation, are provided for personal review only. No part of these materials may be copied, reused, redistributed, modified, republished, or represented as another person's work without prior written permission from Debadyuti Sil.
+Except as permitted by applicable law, no part of these materials may be copied, reused, redistributed, modified, republished, or presented as another person's work without prior written permission from Debadyuti Sil.
 
-Unauthorized use, impersonation, misrepresentation, or commercial reuse may violate copyright and other applicable laws.
+This repository is provided for personal review only. Unauthorized impersonation, misrepresentation, or commercial reuse may violate copyright and other applicable laws.
