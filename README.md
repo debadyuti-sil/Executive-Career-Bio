@@ -19,3 +19,11 @@ Use this repository to store and share the executive-level career bio separately
 ## Profile
 
 - LinkedIn: [linkedin.com/in/debadyutisil](https://www.linkedin.com/in/debadyutisil/)
+
+## Copyright Notice
+
+Copyright © Debadyuti Sil. All rights reserved.
+
+This repository and its contents, including the executive career bio, text, formatting, and presentation, are provided for personal review only. No part of these materials may be copied, reused, redistributed, modified, republished, or represented as another person's work without prior written permission from Debadyuti Sil.
+
+Unauthorized use, impersonation, misrepresentation, or commercial reuse may violate copyright and other applicable laws.
