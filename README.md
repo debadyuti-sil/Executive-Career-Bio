@@ -6,6 +6,7 @@ This repository contains the latest PDF version of Debadyuti Sil's executive car
 
 - `Debadyuti_Sil_Executive_Career_Bio_2026.pdf`: current executive summary and career bio
 - Direct link: [View Executive Career Bio PDF](https://github.com/debadyuti-sil/Executive-Career-Bio/blob/main/Debadyuti_Sil_Executive_Career_Bio_2026.pdf)
+- Download link: [Download Executive Career Bio PDF](https://raw.githubusercontent.com/debadyuti-sil/Executive-Career-Bio/main/Debadyuti_Sil_Executive_Career_Bio_2026.pdf)
 
 ## Purpose
 
