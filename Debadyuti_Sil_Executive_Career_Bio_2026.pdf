@@ -67,7 +67,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 10156
+/Length 10134
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -93,7 +93,7 @@ q
 1 0 0 1 56.4 681.2 cm
 q
 .105882 .419608 .576471 rg
-BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL 218.472 0 Td (Open to Relocate) Tj T* -100.2 0 Td ET
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL 0 0 Td () Tj T* -100.2 0 Td ET
 Q
 Q
 q
@@ -491,5 +491,5 @@ trailer
 /Info 1 0 R
 >>
 startxref
-11141
+11119
 %%EOF
